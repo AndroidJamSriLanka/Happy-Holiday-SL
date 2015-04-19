@@ -1,4 +1,4 @@
-package com.example.tharindu.sunshine;
+package com.example.tharindu.HappyHoliday;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
