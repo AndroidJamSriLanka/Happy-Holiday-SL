@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Happy Holiday.iml" filepath="$PROJECT_DIR$/Happy Holiday.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/HappyHoliday.iml" filepath="$PROJECT_DIR$/app/HappyHoliday.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SunshineApp.iml" filepath="$PROJECT_DIR$/SunshineApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final.iml" filepath="$PROJECT_DIR$/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Happy Holiday/Happy Holiday.iml" filepath="$PROJECT_DIR$/Happy Holiday/Happy Holiday.iml" />
     </modules>
   </component>
 </project>
-
